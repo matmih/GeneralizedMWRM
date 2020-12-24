@@ -6,4 +6,5 @@ It is the extension of the work published at the Discovery Science conference, h
 
 For more information see: 
 
-Matej Mihelčić, Sašo Džeroski and Tomislav Šmuc, Extending Redescription Mining to Multiple Views, In Proceedings of the 21st International Conference, {DS} 2018, Limassol, Cyprus, October 29-31, 2018.
+1. Matej Mihelčić, Sašo Džeroski and Tomislav Šmuc, Extending Redescription Mining to Multiple Views, In Proceedings of the 21st International Conference, {DS} 2018, Limassol, Cyprus, October 29-31, 2018.
+2. Matej Mihelčić, Tomislav Šmuc, Approaches For Multi-View Redescription Mining, https://arxiv.org/abs/2006.12227 (under review).
